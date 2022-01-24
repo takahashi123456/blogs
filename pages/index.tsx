@@ -7,6 +7,8 @@ import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import { CMS_NAME } from '../lib/constants'
 import Post from '../types/post'
+import { motion } from "framer-motion"
+
 
 type Props = {
   allPosts: Post[]
@@ -34,6 +36,10 @@ const Index = ({ allPosts }: Props) => {
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+          <motion.div
+            animate={{ x: 100, rotate: 360 }}
+            transition={{ duration: 2 }}
+          />
         </Container>
       </Layout>
     </>

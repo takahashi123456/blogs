@@ -10,6 +10,13 @@ ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
 
+<style>  
+  img {  
+    opacity: 0;  
+    break-after: page;  
+  }  
+</style>  
+
 初記事です。yukiです。今回はNext.jsのライブラリを使って誰でも超簡単にブログを作る方法をまとめたいと思います。まずはNext.jsとtemplateをインストールします。
 ```
 npx create-next-app --example ブログ名 blog-starter-typescript-app
