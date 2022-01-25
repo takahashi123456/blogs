@@ -2,7 +2,7 @@
 title: 'チーム開発のコツ'
 excerpt: 'チーム開発を経験した感想です'
 coverImage: '/assets/blog/dynamic-routing/jasper.png'
-date: '2020-03-16T05:35:07.322Z'
+date: '2022-01-16T05:35:07.322Z'
 author:
   name: H Yuki 
   picture: '/assets/blog/authors/nigaoe.JPG'
