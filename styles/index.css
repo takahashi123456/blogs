@@ -6,7 +6,7 @@ pre{
     background-color: #364549;
     display: block;
     padding: 30px;
-    margin: 0;
+    margin: 0px;
     font-size: inherit;
     font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,Courier,monospace;
     line-height: inherit;
@@ -16,5 +16,7 @@ pre{
     line-height: 1.8;
 }
 code{
+    background-color: #364549;
+
     color: #e3e3e3;
 }

@@ -2,7 +2,7 @@
 title: 'AtCoderに初心者が初挑戦する'
 excerpt: 'ATcoderに挑戦した頃の記事です'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2022-01-11T05:35:07.322Z'
 author:
   name: H Yuki 
   picture: '/assets/blog/authors/nigaoe.JPG'
