@@ -26,6 +26,7 @@ yarn create next-app --example ブログ名 blog-starter-typescript-app
 
 これだけでブログはほぼ完成です。こんな感じのブログができます。(このブログの元ですね)
 
+
 <img src="/assets/blog/dynamic-routing/temp.png">
 
 
