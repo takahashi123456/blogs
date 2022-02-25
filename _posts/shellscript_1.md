@@ -2,7 +2,7 @@
 title: 'shellscriptの基本'
 excerpt: 'shellscriptのコマンドや基本的な使用方法などについてまとめた記事になります'
 coverImage: '/assets/blog/preview/terminal.png'
-date: '2022-01-16T05:35:07.322Z'
+date: '2022-02-25T15:35:07.322Z'
 author:
   name: H Yuki 
   picture: '/assets/blog/authors/nigaoe.JPG'
