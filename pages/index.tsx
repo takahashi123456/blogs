@@ -21,7 +21,7 @@ const Index = ({ allPosts }: Props) => {
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Example with {CMS_NAME}</title>
+          <title>H.yukiのエンジニアになりたい無職ブログ</title>
           <meta name="google-site-verification" content="-MS-ddiFh9zMaoB0QUDH9EIyhTip41L7ke97lnP-PNM" />
         </Head>
         <Container>
