@@ -21,7 +21,7 @@ const Index = ({ allPosts }: Props) => {
     <>
       <Layout>
         <Head>
-          <title>H.yukiのエンジニアになりたい無職ブログ</title>
+          <title>H.yukiのエンジニアになりたいブログ</title>
           <meta name="google-site-verification" content="-MS-ddiFh9zMaoB0QUDH9EIyhTip41L7ke97lnP-PNM" />
         </Head>
         <Container>
